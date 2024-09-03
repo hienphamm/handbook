@@ -16,7 +16,7 @@
 
 ### Code Example
 
-```
+```python
 // The abstract factory interface declares a set of methods that
 // return different abstract products. These products are called
 // a family and are related by a high-level theme or concept.
