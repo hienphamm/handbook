@@ -1,8 +1,8 @@
----
-description: 'Source: https://refactoring.guru/design-patterns/abstract-factory'
----
-
 # Factory Pattern
+
+{% hint style="info" %}
+Source: [https://refactoring.guru/design-patterns/abstract-factory](abstractfactory.md#structure)
+{% endhint %}
 
 **Abstract Factory** is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
 
