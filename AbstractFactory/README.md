@@ -25,3 +25,6 @@ The Factory Pattern is a creational design pattern that provides an interface fo
 - The code may become more complicated since you need to introduce a lot of new subclasses which implement the factory method.
 
 Remember, like any design pattern, the Factory Pattern should be used when it's beneficial and makes sense in the context of your project. It's not a one-size-fits-all solution.
+
+[embedmd]:# (AbstractFactory/hello.go go)
+
